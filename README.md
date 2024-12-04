@@ -1,7 +1,7 @@
 # Praticas-de-aula
  Curso de Análise de Dados
 
-Como Executar o Arquivo .sh
+# Como Executar o Arquivo .sh
 Criar o Arquivo:
 Abra um editor de texto 
 Copie e cole o código da calculadora.
@@ -18,7 +18,7 @@ No terminal, ainda no diretório do arquivo, digite:
 ./calculadora.sh
 O script vai pedir dois números e a operação (+, -, *, /). Digite o que ele pedir e você verá o resultado na tela.
 
-Explicação do Código em Python
+# Explicação do Código em Python
 O Que o Código Faz:
 Mensagem de Boas-vindas:
 print("==Calculadora Simples=="): Exibe uma mensagem amigável para o usuário.
